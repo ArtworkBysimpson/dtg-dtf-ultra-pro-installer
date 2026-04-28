@@ -1,0 +1,10 @@
+{
+  "latest_version": "4.1.0",
+  "release_notes": "Correção de bugs e otimização do modo turbo.",
+  "downloads": {
+    "win_pt": "https://github.com/ArtworkBysimpson/dtg-dtf-ultra-pro-installer/releases/download/v1.0.0-trial/DTG.DTF_ULTRA_PRO_PT_BR_01.zip",
+    "win_en": "https://github.com/ArtworkBysimpson/dtg-dtf-ultra-pro-installer/releases/download/v1.0.0-trial/DTG.DTF_ULTRA_PRO_EN_GB_01.zip",
+    "mac_pt": "https://link-do-seu-github.com/mac-pt.dmg",
+    "mac_en": "https://link-do-seu-github.com/mac-en.dmg"
+  }
+}
